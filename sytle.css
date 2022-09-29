@@ -1,0 +1,21 @@
+h1 {
+    color:red;
+}
+
+strong {
+    font-size: larger;
+    background-color: beige;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+* {
+    font-family:sans-serif;
+}
+
+p ul {
+    font-style: italic;
+}
